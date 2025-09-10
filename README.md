@@ -1,4 +1,16 @@
-# React + Vite
+# ManosALaObra1 - Lista de Tareas
+
+Esqueleto de una aplicación de lista de tareas desarrollada con React + Vite.
+
+## 🚀 Deploy
+
+Esta aplicación está desplegada en GitHub Pages: https://perloski.github.io/ManosALaObra1/
+
+## 🛠️ Tecnologías
+
+- React
+- Vite
+- CSS
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
